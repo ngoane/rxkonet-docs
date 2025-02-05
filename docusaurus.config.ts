@@ -19,6 +19,8 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ngoane', // Usually your GitHub org/user name.
   projectName: 'rxkonet-docs', // Usually your repo name.
+  trailingSlash: false,
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -39,8 +41,7 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/ngoane/rxkonet-docs',
+          editUrl: 'https://github.com/ngoane/rxkonet-docs/tree/main/',
         },
         // blog: {
         //   showReadingTime: true,
