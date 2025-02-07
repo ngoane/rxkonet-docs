@@ -12,8 +12,8 @@ Getting started with RxKonet is straightforward and guided. Let's walk through t
 
 Choose your preferred way to start:
 
-- 🌐 **Online Registration**: Fill out our [quick form](https://rxkonet.com/register)
-- 👥 **Personal Contact**: Connect with one of our team members
+- 🌐 **Online Registration**: Fill out our [quick form](https://rxkonet.com/contacts)
+- 👥 **Personal Contact**: Connect with one of our team members or send an email to [admin@rxkonet.com](mailto:admin@rxkonet.com)
 
 ### 2. Required Information
 

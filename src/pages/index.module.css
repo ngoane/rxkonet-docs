@@ -1,39 +1,129 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
-.heroBanner {
-  padding: 4rem 0;
+/* === HERO SECTION === */
+.hero {
   text-align: center;
-  position: relative;
-  overflow: hidden;
-  background: linear-gradient(45deg, #28a745, #20c997);
+  padding: 5rem 0;
+  background: linear-gradient(135deg, #4f46e5, #9333ea); /* RxKonet & Ngoane Brand Colors */
   color: white;
 }
 
-.features {
-  display: flex;
-  align-items: center;
-  padding: 2rem 0;
-  width: 100%;
+html[data-theme='dark'] .hero {
+  background: linear-gradient(135deg, #3b3486, #6d28d9); /* Dark Mode Fix */
 }
 
-.featureSvg {
-  height: 200px;
-  width: 200px;
+.title {
+  font-size: 3.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.subtitle {
+  font-size: 1.4rem;
+  opacity: 0.9;
+  margin-bottom: 2rem;
+}
+
+.button--primary {
+  background-color: #16a34a !important; /* RxKonet Green */
+  border-color: #16a34a !important;
+  padding: 0.8rem 2rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.button--primary:hover {
+  background-color: #15803d !important;
+}
+
+/* === SECTIONS SPACING & LAYOUT === */
+.whyChoose, .documentation {
+  padding: 4rem 0; /* Increased spacing */
+  text-align: center;
+}
+
+.whyChoose {
+  background-color: #f9f9f9;
+}
+
+.documentation {
+  background-color: white;
+}
+
+html[data-theme='dark'] .whyChoose {
+  background-color: #1a1a1a;
+}
+
+html[data-theme='dark'] .documentation {
+  background-color: #222;
+}
+
+/* === HEADINGS & TYPOGRAPHY === */
+.sectionTitle {
+  font-size: 2.5rem;
+  font-weight: bold;
   margin-bottom: 1.5rem;
+  color: var(--ifm-font-color-base);
 }
 
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 1rem;
+html[data-theme='dark'] .sectionTitle {
+  color: #16a34a; /* RxKonet Green for Dark Mode Titles */
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+.sectionDescription {
+  font-size: 1.25rem;
+  color: #555;
+  max-width: 850px;
+  margin: 0 auto 2rem;
+  line-height: 1.6;
+}
+
+html[data-theme='dark'] .sectionDescription {
+  color: var(--ifm-font-color-base);
+}
+
+/* === FEATURE CARDS === */
+.featureCard {
+  text-align: center;
+  padding: 2rem;
+  border-radius: 8px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.featureCard:hover {
+  transform: translateY(-5px);
+}
+
+.featureCard h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 0.8rem;
+}
+
+.featureCard p {
+  font-size: 1.1rem;
+  color: #666;
+  line-height: 1.6;
+}
+
+html[data-theme='dark'] .featureCard p {
+  color: var(--ifm-font-color-secondary);
+}
+
+/* === DOCUMENTATION FEATURE GRID === */
+.docFeature {
+  text-align: center;
+  padding: 1.5rem;
+}
+
+.docFeature h3 {
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.docFeature p {
+  font-size: 1.1rem;
+  color: #666;
+}
+
+html[data-theme='dark'] .docFeature p {
+  color: var(--ifm-font-color-secondary);
 }
