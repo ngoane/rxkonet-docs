@@ -2,63 +2,102 @@
 sidebar_position: 5
 ---
 
-# Editing Client Profiles
+# ✏️ Editing Client Profiles
 
-Learn how to **update and modify client information** for accurate records.
+Learn how to **update and modify client information** in RxKonet to ensure accurate and up-to-date records.
 
-## ✏️ Profile Sections
+---
 
-Below is an image of the client profile page. If you want to edit the client profile, click on the **Edit Profile** button.
+## 📌 Why Edit Client Profiles?
+
+Keeping client records **accurate and updated** is essential for **quality healthcare delivery**. This section guides you on how to **edit personal details, medical history, contact information, emergency contacts, and insurance details**.
+
+---
+
+## 🛠️ Profile Sections
+
+Below is an image of the **client profile page**. If you want to edit a client’s profile, click on the **"Edit Profile"** button.
+
 ![Client Profile](/img/screenshots/view-client-profile.png)
 
-### **1. Personal Information**
+---
 
-- Title
-- Gender
-- Date of Birth
-- Languages
+### **1️⃣ Personal Information**
 
-![Client Profile](/img/screenshots/edit-personal-information.png)
+Modify basic client details:
 
-### **2. Medical Details**
+- **Title**
+- **Gender**
+- **Date of Birth**
+- **Languages**
 
-- Medical history
-- Allergies
-- Conditions
+![Edit Personal Information](/img/screenshots/edit-personal-information.png)
 
-![Client Profile](/img/screenshots/edit-medical-information.png)
+---
 
-### **3. Contact Information**
+### **2️⃣ Medical Details**
 
-- Phone numbers
-- Email
-- Address
+Update the client’s **medical history** to ensure accurate treatment records:
 
-![Client Profile](/img/screenshots/edit-contact-information.png)
+- **Medical history**
+- **Allergies**
+- **Conditions**
 
-### **4. Emergency Contacts**
+![Edit Medical Information](/img/screenshots/edit-medical-information.png)
 
-- Name
-- Relationship
-- Contact details
+---
 
-![Client Profile](/img/screenshots/add-emergency-contact-information.png)
+### **3️⃣ Contact Information**
 
-### **5. Insurance Information**
+Keep client contact details up to date:
 
-- Provider
-- Policy details
-- Coverage information
+- **Phone numbers**
+- **Email address**
+- **Residential address**
 
-![Client Profile](/img/screenshots/add-insurance-information.png)
+![Edit Contact Information](/img/screenshots/edit-contact-information.png)
 
-:::tip Data Accuracy  
+---
+
+### **4️⃣ Emergency Contacts**
+
+Add or update emergency contact information to ensure timely communication during emergencies:
+
+- **Contact Name**
+- **Relationship to Client**
+- **Phone Number**
+
+![Edit Emergency Contact Information](/img/screenshots/add-emergency-contact-information.png)
+
+---
+
+### **5️⃣ Insurance Information**
+
+Ensure that the client’s **insurance details** are correct and up to date:
+
+- **Insurance Provider**
+- **Policy details**
+- **Coverage information**
+
+![Edit Insurance Information](/img/screenshots/add-insurance-information.png)
+
+---
+
+## 🎯 Best Practices for Data Accuracy
+
+✅ Always verify **client details** during visits to prevent outdated or incorrect information.  
+✅ Ensure **emergency contacts and insurance details** are accurate to avoid complications.  
+✅ Double-check spelling and **contact details** for errors before saving changes.
+
+:::tip ✅ Data Accuracy  
 Regularly verify client information during visits to maintain **up-to-date records**.  
 :::
 
+---
+
 ## 🎥 Short Recording on Editing Client Profiles
 
-Watch this short video to see how you can edit client profiles efficiently:
+Watch this short video tutorial on how to **edit client profiles efficiently** in RxKonet:
 
 <iframe src="https://www.loom.com/embed/9b591d67926e4d298edc868947eb5fd9?sid=b6efa7b9-edfe-4373-b0dd-420bff09e446"
 width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
