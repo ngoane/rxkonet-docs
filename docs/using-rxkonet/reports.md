@@ -8,6 +8,10 @@ Learn how to **track key metrics, generate reports, and analyze trends** in RxKo
 
 ---
 
+<iframe src="https://www.loom.com/embed/ae6a8ec708e34a97908573a3f11a9de0?sid=47038d84-b97a-4920-a172-cbb7e26178f8"
+width="100%" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen 
+></iframe>
+
 ## 📌 Accessing Reports
 
 Reports provide **insights into client activity, encounters, and follow-ups** to help with data-driven decision-making.
