@@ -2,64 +2,90 @@
 sidebar_position: 1
 ---
 
-# Account Access & Profile Management
+# 🔐 Account Access & Profile Management
 
-Learn how to securely access and manage your RxKonet account.
+Learn how to **securely access and manage your RxKonet account**, update profile details, and log out safely.
 
-## 🔐 Logging In
+---
 
-### Access Methods
+## 🔑 Logging In
 
-1. Visit the RxKonet login page
-2. Enter your credentials:
-   - Email address
-   - Password
-3. Complete two-factor authentication (if enabled)
-4. Click "Log In"
+### **Accessing Your Account**
 
-:::tip Quick Access
-Enable "Remember Me" on your personal devices for faster login.
+1. **Go to the RxKonet Login Page**  
+   ![Account Access](/img/screenshots/RxKonet-login-page.png)
+
+2. **Enter Your Credentials**
+
+   - **Email Address**
+   - **Password**  
+     ![Account Access](/img/screenshots/rxkonet-login.png)
+
+3. **Complete Two-Factor Authentication (if enabled).**
+4. Click **"Sign In"** to access your account.
+
+:::tip ⚡ Quick Access  
+Enable **"Remember Me"** on your personal devices for a faster login experience.  
 :::
 
-### Password Recovery
+---
+
+### **🔑 Password Recovery**
 
 If you can't log in:
-1. Click "Forgot Password"
-2. Enter your email
-3. Follow the reset instructions
+
+1. Click **"Forgot Password"**.
+2. Enter your **registered email address**.
+3. Follow the **password reset instructions** sent to your email.
+
+---
 
 ## 👤 Profile Management
 
-### Accessing Your Profile
+### ✏️ Editing Your Profile
 
-1. Click your name/profile picture (top-right corner)
-2. Select "Profile"
+Your profile allows you to **update personal information** and ensure account details remain accurate.
 
-### Editable Information
+#### 🔍 **Accessing Your Profile**
 
-- **Account Details**
-  - Password
-  - Email address
-  - Profile picture
+1. After logging in, click your **name** or **profile picture** in the top-right corner of the dashboard.
+2. Select **"Profile."**
 
-### Making Changes
+![Account Profile](/img/screenshots/Edit-Profile.png)
 
-1. Navigate to the desired section
-2. Make your updates
-3. Click "Save" to apply changes
+#### 🔄 **Updating Your Details**
 
-:::note Admin-Only Fields
-Some fields (roles, permissions) require administrator access to modify.
+1. Click on **"Account."**  
+   ![Account Profile](/img/screenshots/edit-account-details.png)
+
+2. Modify your **email address** or **password**.
+
+   - Use the **"Change Password"** option to update your login password.  
+     ![Account Profile](/img/screenshots/Edit-account-email.png)
+
+3. Upload or change your **profile picture**.  
+   ![Account Profile](/img/screenshots/edit-account-profilepic.png)
+
+#### 💾 **Saving Changes**
+
+- Click **"Save"** to apply updates.
+
+:::note 🛠️ Admin-Only Fields  
+Certain fields, such as **roles and permissions**, may only be editable by an administrator.  
 :::
+
+---
 
 ## 🚪 Logging Out
 
-### Secure Log Out Process
+Logging out ensures your **RxKonet account remains secure**, especially when using shared or public devices.
 
-1. Click your profile (top-right)
-2. Select "Log Out"
-3. Confirm logout if prompted
+### 🔐 **Secure Logout Process**
 
-:::caution Security Reminder
-Always log out when using shared or public devices!
-::: 
+1. Click your **name** or **profile picture** in the top-right corner.
+2. Select **"Log Out."**
+3. You will be securely **logged out and redirected** to the **login page**.
+
+:::tip 🔒 Security Reminder  
+Always **log out** when stepping away from shared devices to prevent **unauthorized access**.  
+:::

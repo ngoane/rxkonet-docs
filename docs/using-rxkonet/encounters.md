@@ -2,103 +2,147 @@
 sidebar_position: 4
 ---
 
-# Managing Encounters
+# 🏥 Managing Encounters
+
+Learn how to **create, document, and manage patient encounters** in RxKonet to ensure accurate medical records and effective follow-up care.
+
+---
 
 ## 📋 Creating New Encounters
 
-### Initial Setup
+### 📌 What is an Encounter?
 
-1. **Access Encounters**
-   - Navigate to Records & Encounters > Create Encounter
+An **encounter** records a patient’s **visit details**, including symptoms, diagnosis, treatment, and follow-up plans. This documentation ensures **comprehensive patient management** and continuity of care.
 
-2. **Patient Selection**
-   - Search existing patients
-   - Or register new patient
+---
 
-### Documentation Process
+## 🛠️ Steps to Create a New Encounter
 
-1. **Basic Details**
-   - Date and Time
-   - Visit Type
-   - Initial Notes
+### 1️⃣ **Access Encounters**
 
-2. **Chief Complaints**
-   - Primary concerns
-   - History of present illness
+- Navigate to **Records & Encounters > Create Encounter**
 
-3. **Diagnostic Tests**
-   - Select test types
-   - Record results
-   - Add notes
+### 2️⃣ **Select a Patient**
 
-4. **Treatment Plan**
-   ```
-   Medication Details:
-   - Name
-   - Strength
-   - Form
-   - Dosage
-   - Frequency
-   - Duration
-   ```
+- Search for an **existing patient** or **register a new patient**.
 
-5. **Counseling**
-   - Select counseling points
-   - Add recommendations
-   - Document patient education
+---
 
-6. **Follow-Up Planning**
-   - Schedule next visit
-   - Set reminders
-   - Define monitoring plan
+## 📝 Documenting the Encounter
+
+Once a patient is selected, the following details must be recorded:
+
+### **1️⃣ Encounter Details**
+
+- **Date & Time** of the visit.
+- **Reason for Visit** (e.g., headache, follow-up consultation).
+
+### **2️⃣ Chief Complaints & History**
+
+- **Primary Concerns:** Document the **patient's symptoms**.
+- **History of Present Illness:** Include relevant **medical history and context**.
+
+---
+
+### **3️⃣ Diagnostic Tests**
+
+- **Select Test Type** (e.g., Blood Pressure, Blood Sugar, Lab Tests).
+- **Record Results** (e.g., BP: 120/80 mmHg, Pulse: 72 bpm).
+- **Add Observations or Notes** if necessary.
+
+---
+
+### **4️⃣ Treatment Plan**
+
+#### 📌 **Medication Prescription**
+
+- **Medication Name:** _Paracetamol_
+- **Strength:** _500 mg_
+- **Form:** _Tablet_
+- **Dosage & Frequency:** _Every 6 hours for 3 days_
+- **Additional Instructions:** _Take after meals_
+
+🔹 Click **"Search & Add Medication"** or **"Add Manual Entry"** to add more medications.
+
+---
+
+### **5️⃣ Counseling & Recommendations**
+
+- Select **counseling points** (e.g., medication adherence, diet changes).
+- Document **patient education** and any **additional recommendations**.
+
+---
+
+### **6️⃣ Follow-Up Planning**
+
+Schedule follow-ups to ensure **continuity of care**:
+
+- **Method:** Phone call, In-person visit.
+- **Action:** Medication review, Condition check.
+- **Timeframe:**
+  - 1 Day
+  - 3 Days
+  - 1 Week
+  - 1 Month
+
+🔹 Click **"Add Follow-up"** to schedule additional check-ins.
+
+---
 
 ## 🔍 Managing Existing Encounters
 
-### Viewing Records
+### 📁 Viewing Records
 
-1. **Access Records**
-   - Go to Records & Encounters > View Encounters
+1. **Access Past Encounters**
 
-2. **Search Options**
-   - By date
-   - By patient
-   - By visit type
+   - Navigate to **Records & Encounters > View Encounters**.
 
-### Editing Encounters
+2. **Search for Encounters**
+   - Filter by **date**, **patient name**, or **visit type**.
 
-1. **Open Record**
-   - Select encounter
-   - Review details
+---
 
-2. **Make Changes**
-   - Update information
-   - Add notes
-   - Modify plans
+### ✏️ Editing Encounters
 
-3. **Save Updates**
-   - Review changes
-   - Confirm updates
-   - Document modifications
+1️⃣ **Open an Existing Encounter**
 
-### Record Deletion
+- Select the **encounter record** you want to update.
 
-:::caution Important
-Encounter deletion is permanent and cannot be undone.
+2️⃣ **Make Changes**
+
+- Update **chief complaints, diagnostic results, or medications**.
+- Modify **follow-up schedules or counseling recommendations**.
+
+3️⃣ **Save Changes**
+
+- Click **"Save Encounter"** to finalize the updates.
+
+:::tip Documentation  
+Always include the **reason for any modifications** made to existing encounters.  
 :::
 
-**Deletion Process:**
-1. Locate encounter
-2. Click Delete
-3. Confirm action
+---
+
+### ❌ Deleting an Encounter
+
+:::caution ⚠️ Important  
+Encounter **deletion is permanent** and cannot be undone. Proceed with caution.  
+:::
+
+### 🗑️ Deletion Process
+
+1. Locate the **encounter record** to be deleted.
+2. Click **"Delete"**.
+3. Confirm action before **permanently removing the record**.
+
+---
 
 ## 📊 Encounter Best Practices
 
-- Document in real-time
-- Use standardized templates
-- Include all relevant details
-- Verify information accuracy
-- Set clear follow-up plans
+✅ **Document in real-time** to avoid missing important details.  
+✅ **Use standardized templates** for consistency.  
+✅ **Include all relevant details** (e.g., symptoms, medications, follow-ups).  
+✅ **Verify information accuracy** before saving the record.  
+✅ **Set clear follow-up plans** for better patient care.
 
-:::tip Documentation
-Always include the reason for any changes made to existing encounters.
-::: 
+---
