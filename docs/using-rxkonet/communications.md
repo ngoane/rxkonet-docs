@@ -18,6 +18,10 @@ Follow-ups help you **track client interactions** and ensure patients receive th
 
 ---
 
+<iframe src="https://www.loom.com/embed/42415d2714574ffdb5d9fefada2ea472?sid=e26b1caa-f8af-4532-b9d0-26bc37b16c90"
+width="100%" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen 
+></iframe>
+
 ## 🛠️ Steps to Manage Follow-Ups
 
 ### **1️⃣ Accessing Follow-Ups**
@@ -139,6 +143,10 @@ Templates can be **personalized with patient information** using variables like 
 ## 📩 Sending SMS & Notifications
 
 Send **important messages** to clients about appointments, follow-ups, and reminders.
+
+<iframe src="https://www.loom.com/embed/c7bc0d872e2c406696b14018782f5b6b?sid=e17ade4d-e9b0-4757-82f2-f23ea8f4d26d"
+width="100%" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen 
+></iframe>
 
 ### 🛠️ Steps to Send a Message
 

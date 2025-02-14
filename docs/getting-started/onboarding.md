@@ -2,61 +2,73 @@
 sidebar_position: 3
 ---
 
-# Onboarding Process
+# 🚀 Onboarding Process
 
-## Getting Your Pharmacy Ready
+The **onboarding process** ensures your pharmacy is **properly set up**, and your team is **fully trained** to use RxKonet effectively.
 
-The onboarding process ensures your pharmacy is properly set up and your team is ready to use RxKonet effectively.
+---
 
-### Step-by-Step Process
+## 🏪 Getting Your Pharmacy Ready
 
-1. **Agreement Signing**
-   - Review service terms
-   - Understand data privacy policies
-   - Complete digital signature
+### 🛠️ **Step-by-Step Process**
 
-2. **System Setup**
-   - Account creation
-   - Branch configuration
-   - User roles setup
-   - Initial settings customization
+1️⃣ **Agreement Signing**
 
-3. **Staff Training**
-   - Access to training materials
-   - Live training sessions
-   - Practice environment setup
+- Review and accept **service terms**.
+- Understand **data privacy policies**.
+- Complete the **digital signature process**.
 
-## Training Options
+2️⃣ **System Setup**
 
-Choose the training format that works best for your team:
+- Create **your RxKonet account**.
+- Configure **branches and locations**.
+- Set up **user roles and permissions**.
+- Customize **initial settings** based on pharmacy needs.
 
-### 🎓 Live Training Sessions
-- Interactive group sessions
-- Hands-on practice
-- Real-time Q&A
+3️⃣ **Staff Training**
 
-### 📱 Self-Paced Learning
-- Video tutorials
-- Step-by-step guides
-- Practice exercises
+- Access **training materials** for onboarding.
+- Attend **live training sessions** with experts.
+- Use a **practice environment** to explore RxKonet safely.
 
-### 🤝 One-on-One Support
-- Personal guidance
-- Custom scenarios
-- Specific feature training
+---
 
-:::info Training Schedule
-Training typically takes 2-3 sessions spread across one week.
+## 🎓 Training Options
+
+Choose the **training format** that works best for your team:
+
+### 🏫 **Live Training Sessions**
+
+✅ Interactive **group sessions** with real-time Q&A.  
+✅ Hands-on **practice exercises** for system mastery.
+
+### 📱 **Self-Paced Learning**
+
+✅ **Video tutorials** for step-by-step guidance.  
+✅ **Practice exercises** to test system knowledge.
+
+### 🤝 **One-on-One Support**
+
+✅ Personalized **guidance tailored** to your needs.  
+✅ Custom training on **specific features**.
+
+:::info 📅 Training Schedule  
+Training typically consists of **2-3 sessions** spread across **one week**.  
 :::
 
-## Post-Onboarding Support
+---
 
-After completion, you'll have access to:
-- 24/7 help desk
-- Knowledge base
-- Regular check-ins
-- Update notifications
+## 🛠️ Post-Onboarding Support
 
-:::tip Ready to Go Live?
-Once training is complete, we'll help you plan your go-live date!
-::: 
+After onboarding, you will have access to:
+
+✅ **24/7 Help Desk** for technical support.  
+✅ **Comprehensive Knowledge Base** with guides and FAQs.  
+✅ **Regular Check-ins** to address feedback and improvements.  
+✅ **Update Notifications** for new features and enhancements.
+
+:::tip 🚀 Ready to Go Live?  
+Once training is complete, our team will help you **plan your official go-live date!**  
+:::
+
+---

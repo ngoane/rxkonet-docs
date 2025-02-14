@@ -2,42 +2,54 @@
 sidebar_position: 2
 ---
 
-# Discovery Call & Demo
+# 📞 Discovery Call & Demo
 
-## What to Expect
+Your **discovery call** is a personalized session designed to understand your **pharmacy's needs** and demonstrate how **RxKonet can help** optimize your workflow.
 
-Your discovery call is a personalized session to understand your needs and show you how RxKonet can help.
+---
 
-### Call Structure
+## 🔹 What to Expect
 
-1. **Introduction** (5 minutes)
-   - Meet your RxKonet representative
-   - Overview of the session
+This session includes **a structured walkthrough** of RxKonet, covering your **specific pain points, system capabilities, and customization options**.
 
-2. **Understanding Your Needs** (15 minutes)
-   - Current processes discussion
-   - Pain points identification
-   - Goals and expectations
+### 🛠️ **Call Structure**
 
-3. **Live Demo** (25 minutes)
-   - Core features showcase
-   - Customization options
-   - Real-world usage examples
+1️⃣ **Introduction** (**5 minutes**)
 
-4. **Q&A Session** (15 minutes)
-   - Address your questions
-   - Discuss specific requirements
-   - Next steps explanation
+- Meet your RxKonet representative.
+- Overview of what will be covered.
 
-## How to Prepare
+2️⃣ **Understanding Your Needs** (**15 minutes**)
 
-### 📋 Preparation Checklist
+- Discussion of your **current workflow and challenges**.
+- Identifying key **pain points**.
+- Aligning RxKonet with your **goals and expectations**.
 
-- [ ] List your current challenges
-- [ ] Prepare questions about features
-- [ ] Note down specific requirements
-- [ ] Have basic pharmacy info ready
+3️⃣ **Live Demo** (**25 minutes**)
 
-:::tip Make the Most of Your Demo
-Share specific scenarios you'd like to see demonstrated during the call.
-::: 
+- **Core features showcase** – How RxKonet streamlines pharmacy operations.
+- **Customization options** – Tailoring the system to fit your needs.
+- **Real-world examples** – How pharmacies like yours are using RxKonet.
+
+4️⃣ **Q&A Session** (**15 minutes**)
+
+- Address any **questions or concerns**.
+- Discuss **specific customization or integration needs**.
+- Outline **next steps** in the onboarding process.
+
+---
+
+## ✅ How to Prepare
+
+### 📋 **Preparation Checklist**
+
+🔲 **List your current challenges** – Identify specific workflow inefficiencies.  
+🔲 **Prepare questions about features** – Clarify any functionality concerns.  
+🔲 **Note down specific requirements** – Think about **customization** needs.  
+🔲 **Have basic pharmacy info ready** – Location, size, key team members.
+
+:::tip 💡 Make the Most of Your Demo  
+Share **specific scenarios** you'd like to see demonstrated to ensure a **tailored experience**.  
+:::
+
+---

@@ -12,31 +12,31 @@ Learn how to **securely access and manage your RxKonet account**, update profile
 
 ### **Accessing Your Account**
 
-1. **Go to the RxKonet Login Page**  
-   ![Account Access](/img/screenshots/RxKonet-login-page.png)
+1️⃣ **Go to the RxKonet Login Page**  
+ ![Account Access](/img/screenshots/RxKonet-login-page.png)
 
-2. **Enter Your Credentials**
+2️⃣ **Enter Your Credentials**
 
-   - **Email Address**
-   - **Password**  
-     ![Account Access](/img/screenshots/rxkonet-login.png)
+- **Email Address**
+- **Password**  
+  ![Account Access](/img/screenshots/rxkonet-login.png)
 
-3. **Complete Two-Factor Authentication (if enabled).**
-4. Click **"Sign In"** to access your account.
+3️⃣ **Complete Two-Factor Authentication (if enabled).**  
+4️⃣ Click **"Sign In"** to access your account.
 
 :::tip ⚡ Quick Access  
-Enable **"Remember Me"** on your personal devices for a faster login experience.  
+Enable **"Remember Me"** on personal devices for a faster login experience.  
 :::
 
 ---
 
-### **🔑 Password Recovery**
+### 🔑 **Password Recovery**
 
 If you can't log in:
 
-1. Click **"Forgot Password"**.
-2. Enter your **registered email address**.
-3. Follow the **password reset instructions** sent to your email.
+1️⃣ Click **"Forgot Password"**.  
+2️⃣ Enter your **registered email address**.  
+3️⃣ Follow the **password reset instructions** sent to your email.
 
 ---
 
@@ -48,27 +48,26 @@ Your profile allows you to **update personal information** and ensure account de
 
 #### 🔍 **Accessing Your Profile**
 
-1. After logging in, click your **name** or **profile picture** in the top-right corner of the dashboard.
-2. Select **"Profile."**
-
-![Account Profile](/img/screenshots/Edit-Profile.png)
+1️⃣ After logging in, click your **name** or **profile picture** in the top-right corner of the dashboard.  
+2️⃣ Select **"Profile."**  
+ ![Account Profile](/img/screenshots/Edit-Profile.png)
 
 #### 🔄 **Updating Your Details**
 
-1. Click on **"Account."**  
-   ![Account Profile](/img/screenshots/edit-account-details.png)
+1️⃣ Click on **"Account."**  
+ ![Account Profile](/img/screenshots/edit-account-details.png)
 
-2. Modify your **email address** or **password**.
+2️⃣ Modify your **email address** or **password**.
 
-   - Use the **"Change Password"** option to update your login password.  
-     ![Account Profile](/img/screenshots/Edit-account-email.png)
+- Use the **"Change Password"** option to update your login password.  
+  ![Account Profile](/img/screenshots/Edit-account-email.png)
 
-3. Upload or change your **profile picture**.  
-   ![Account Profile](/img/screenshots/edit-account-profilepic.png)
+3️⃣ Upload or change your **profile picture**.  
+ ![Account Profile](/img/screenshots/edit-account-profilepic.png)
 
 #### 💾 **Saving Changes**
 
-- Click **"Save"** to apply updates.
+✅ Click **"Save"** to apply updates.
 
 :::note 🛠️ Admin-Only Fields  
 Certain fields, such as **roles and permissions**, may only be editable by an administrator.  
@@ -82,9 +81,9 @@ Logging out ensures your **RxKonet account remains secure**, especially when usi
 
 ### 🔐 **Secure Logout Process**
 
-1. Click your **name** or **profile picture** in the top-right corner.
-2. Select **"Log Out."**
-3. You will be securely **logged out and redirected** to the **login page**.
+1️⃣ Click your **name** or **profile picture** in the top-right corner.  
+2️⃣ Select **"Log Out."**  
+3️⃣ You will be securely **logged out and redirected** to the **login page**.
 
 :::tip 🔒 Security Reminder  
 Always **log out** when stepping away from shared devices to prevent **unauthorized access**.  
