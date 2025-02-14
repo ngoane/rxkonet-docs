@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # 👥 Staff Account Management
 
-This section provides guidelines on **creating roles, assigning staff to branches, managing staff access, and onboarding new team members**.
+This section provides guidelines on **creating roles, assigning staff to branches, managing staff access, and onboarding new team members** in RxKonet.
 
 ---
 
@@ -12,56 +12,58 @@ This section provides guidelines on **creating roles, assigning staff to branche
 
 ### 🛠️ Creating Staff Roles
 
-This section walks you through how to create roles for staff members in your pharmacy. You may have **pharmacists, technicians, and assistants**, each requiring specific permissions to access the system.
+Define **specific roles** for your pharmacy staff, such as **pharmacists, technicians, and assistants**, each with different permissions.
 
-1. **Navigate to Staff Management**
+1️⃣ **Navigate to Staff Management**
 
-   - Click on **Staff Management** from the sidebar menu.
-   - Select **"Create Role."**
+- Click on **Staff Management** from the sidebar menu.
+- Select **"Create Role."**
 
-2. **Enter Role Details**
+2️⃣ **Enter Role Details**
 
-   - Set a **name** for the role (e.g., **Branch Manager**).
-   - Select **branches** where this role will apply.
+- Set a **name** for the role (e.g., **Branch Manager**).
+- Select **branches** where this role applies.
 
-3. **Assign Permissions**
+3️⃣ **Assign Permissions**
 
-   - Choose the level of access by selecting permissions such as:
-     - Managing users, patients, encounters, and medications.
-     - Creating, updating, or deleting records.
-     - Assigning and revoking roles.
-     - Importing/exporting data.
-   - You can **Select All** for full permissions or **customize access**.
+- Choose **access levels** based on role responsibilities:
+  - Managing **users, patients, encounters, and medications**.
+  - Creating, updating, or deleting records.
+  - Assigning and revoking roles.
+  - Importing/exporting data.
+- Use **"Select All"** for full permissions or customize individual access.
 
-4. **Set Global Role (Optional)**
+4️⃣ **Set Global Role (Optional)**
 
-   - Enable **"Make this role global"** if the role applies across all branches.
+- Enable **"Make this role global"** if the role applies across all branches.
 
-5. **Save the Role**
-   - Click **"Add Role"** to complete the setup.
+5️⃣ **Save the Role**
+
+- Click **"Add Role"** to complete the setup.
 
 ---
 
 ### 🔄 Updating Staff Roles
 
-Learn how to update existing staff roles when responsibilities change. You can modify **permissions, branch access, and global status** to ensure staff members have the correct level of access.
+Modify **permissions, branch access, and global status** as staff responsibilities change.
 
-1. **Navigate to Staff Management**
+1️⃣ **Navigate to Staff Management**
 
-   - Click on **Staff Management** from the sidebar menu.
-   - Select **"Update Staff Role."**
+- Click on **Staff Management** from the sidebar menu.
+- Select **"Update Staff Role."**
 
-2. **Select a Staff Member**
+2️⃣ **Select a Staff Member**
 
-   - Choose the **staff member** whose role needs updating.
+- Choose the **staff member** whose role needs updating.
 
-3. **Assign a New Role**
+3️⃣ **Assign a New Role**
 
-   - Select the **new role** from the list.
-   - Enable **Global** if applicable.
+- Select the **new role** from the list.
+- Enable **Global** if applicable.
 
-4. **Save Changes**
-   - Click **"Update Role"** to apply the changes.
+4️⃣ **Save Changes**
+
+- Click **"Update Role"** to apply the changes.
 
 ---
 
@@ -69,41 +71,43 @@ Learn how to update existing staff roles when responsibilities change. You can m
 
 ### ➕ Adding Staff to a Branch
 
-This section explains how to assign staff members to one or more branches. Assigning branches ensures that staff only have access to **relevant locations** and **patient records**.
+Assign staff members to one or more branches to **limit access to relevant locations** and **patient records**.
 
-1. **Navigate to Staff Management**
+1️⃣ **Navigate to Staff Management**
 
-   - Click on **Staff Management** from the sidebar menu.
-   - Select **"Add Staff to a Branch."**
+- Click on **Staff Management** from the sidebar menu.
+- Select **"Add Staff to a Branch."**
 
-2. **Assign Staff to a Branch**
+2️⃣ **Assign Staff to a Branch**
 
-   - Select the **staff member** to assign.
-   - Choose the **branch(es)** where the staff will be assigned.
-   - Select the appropriate **role**.
-   - Enable **Global** if the staff should have access across all branches.
+- Select the **staff member** to assign.
+- Choose the **branch(es)** where the staff will be assigned.
+- Select the appropriate **role**.
+- Enable **Global** if the staff should have access across all branches.
 
-3. **Confirm and Apply Changes**
-   - Click **"Add to Branch"** to finalize the assignment.
+3️⃣ **Confirm and Apply Changes**
+
+- Click **"Add to Branch"** to finalize the assignment.
 
 ---
 
 ### ❌ Removing Staff from a Branch
 
-Removing staff from a branch ensures they no longer have access to its data. This is important when a staff member **transfers, resigns, or no longer needs access** to a specific branch.
+Revoke branch access when a staff member **transfers, resigns, or no longer needs access**.
 
-1. **Navigate to Staff Management**
+1️⃣ **Navigate to Staff Management**
 
-   - Click on **Staff Management** from the sidebar menu.
-   - Select **"Remove Staff from a Branch."**
+- Click on **Staff Management** from the sidebar menu.
+- Select **"Remove Staff from a Branch."**
 
-2. **Select a Staff Member**
+2️⃣ **Select a Staff Member**
 
-   - Choose the **staff member** to remove.
-   - Select the **branch** from which they should be removed.
+- Choose the **staff member** to remove.
+- Select the **branch** from which they should be removed.
 
-3. **Confirm and Apply Changes**
-   - Click **"Remove"** to finalize the action.
+3️⃣ **Confirm and Apply Changes**
+
+- Click **"Remove"** to finalize the action.
 
 ---
 
@@ -111,32 +115,33 @@ Removing staff from a branch ensures they no longer have access to its data. Thi
 
 ### ✉️ Inviting New Staff
 
-This section covers how to **invite new staff members** to join your pharmacy. You can send an email invitation, assign a branch, and define their role to ensure a smooth onboarding process.
+Invite new staff members to join your pharmacy by sending an email invitation.
 
-1. **Navigate to Staff Management**
+1️⃣ **Navigate to Staff Management**
 
-   - Click on **Staff Management** from the sidebar menu.
-   - Select **"Invite Staff."**
+- Click on **Staff Management** from the sidebar menu.
+- Select **"Invite Staff."**
 
-2. **Enter the Staff Member’s Email**
+2️⃣ **Enter the Staff Member’s Email**
 
-   - Input the **email address** of the new staff member.
+- Input the **email address** of the new staff member.
 
-3. **Assign Branch and Role**
+3️⃣ **Assign Branch and Role**
 
-   - Select the **branch(es)** where the staff member will be assigned.
-   - Choose a **role** that determines their permissions.
-   - Enable **Global** if the staff should have full system-wide access.
+- Select the **branch(es)** where the staff member will be assigned.
+- Choose a **role** that determines their permissions.
+- Enable **Global** if the staff should have full system-wide access.
 
-4. **Send the Invitation**
-   - Click **"Send Invite"** to email the invitation.
-   - The staff member will receive an **email with a link** to join the organization.
+4️⃣ **Send the Invitation**
+
+- Click **"Send Invite"** to email the invitation.
+- The staff member will receive an **email with a link** to join the organization.
 
 ---
 
 ### 🔐 Managing Existing Staff
 
-Learn how to **modify access levels**, **deactivate accounts**, or **reset permissions** when needed. This ensures that only **authorized personnel** can access sensitive information.
+Ensure staff members have **appropriate access** by modifying their **roles, branch assignments, or permissions**.
 
 #### ✅ Updating Access
 
@@ -156,10 +161,8 @@ Learn how to **modify access levels**, **deactivate accounts**, or **reset permi
 
 ### 🔎 Reviewing Staff Permissions
 
-Regularly review staff roles and permissions to maintain security and compliance. **Quarterly reviews** help ensure that access is correctly assigned and that only authorized users can view and modify sensitive data.
+Regularly review staff roles and permissions to **maintain security and compliance**. **Quarterly reviews** ensure that access is correctly assigned and only authorized users can view and modify sensitive data.
 
 :::tip 🔍 Best Practice  
 Review staff **permissions quarterly** to ensure access levels are correctly assigned.  
 :::
-
----
