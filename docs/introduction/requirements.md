@@ -2,40 +2,54 @@
 sidebar_position: 3
 ---
 
-# System Requirements
+# ⚙️ System Requirements
 
-You don't need any fancy equipment to use RxKonet. Here's what you'll need to get started:
+RxKonet is designed to be **lightweight and accessible**. You don’t need **high-end hardware**—just a stable internet connection and a compatible device.
 
-## Devices
+---
 
-### 💻 Computer
-- Any modern desktop or laptop
-- Screen resolution: 1366 x 768 or higher (recommended)
+## 🖥️ Compatible Devices
 
-### 📱 Mobile Devices
-- Android: Version 8.0 (2017) or newer
-- iPhone: iOS 13.0 (2019) or newer
+### 💻 **Desktop & Laptop**
 
-## Internet Requirements
+- Any **modern computer** (Windows, macOS, or Linux).
+- **Recommended screen resolution**: 1366 x 768 or higher for the best experience.
 
-:::info
-A steady internet connection is required. Even a basic home or mobile connection should work fine.
+### 📱 **Mobile Devices**
+
+- **Android**: Version **8.0 (Oreo, 2017)** or newer.
+- **iPhone**: iOS **13.0 (2019)** or newer.
+
+---
+
+## 🌐 Internet Requirements
+
+:::info 🔗 Connectivity Requirement  
+A **steady internet connection** is required to use RxKonet. Even a **basic home or mobile network** will work fine.  
 :::
 
-## Supported Browsers
+---
 
-We recommend using any of these modern browsers:
-- Google Chrome (latest version)
-- Microsoft Edge (latest version)
-- Safari (latest version)
-- Firefox (latest version)
+## 🌍 Supported Browsers
 
-## Additional Settings
+For the best experience, use one of the following **modern browsers**:
 
-:::tip Browser Settings
-Make sure your browser settings allow:
-- Cookies
-- JavaScript
+✅ **Google Chrome** (latest version)  
+✅ **Microsoft Edge** (latest version)  
+✅ **Safari** (latest version)  
+✅ **Mozilla Firefox** (latest version)
 
-These are usually enabled by default in most browsers.
-::: 
+🔹 **Other Chromium-based browsers** (such as Brave or Opera) may work but are not officially tested.
+
+---
+
+## 🔧 Additional Browser Settings
+
+:::tip ⚙️ Ensure These Are Enabled  
+For RxKonet to function properly, your browser should have:
+
+✅ **Cookies enabled** – To store session data.  
+✅ **JavaScript enabled** – For full functionality.
+
+These settings are **enabled by default** in most modern browsers.  
+:::

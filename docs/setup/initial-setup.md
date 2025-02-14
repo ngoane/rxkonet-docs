@@ -2,51 +2,66 @@
 sidebar_position: 1
 ---
 
-# Initial Setup
+# 🛠️ Initial Setup
 
-Setting up RxKonet for your pharmacy is a straightforward process that we'll guide you through step by step.
+Setting up RxKonet for your pharmacy is **quick and straightforward**. Follow this step-by-step guide to ensure a **smooth onboarding experience**.
 
-## Setup Process
+---
 
-### 🏢 Account Configuration
+## 🔹 Setup Process
 
-- **Main Account Setup**
-  - Pharmacy profile creation
-  - Branch accounts configuration
-  - User roles definition
-  - Access permissions setup
+### 🏢 **Account Configuration**
 
-- **Pharmacy Details**
-  - Business information
-  - Location settings
-  - Operating hours
-  - Service offerings
+1️⃣ **Main Account Setup**
 
-### 📋 Data Import Options
+- Create your **pharmacy profile**.
+- Configure **branch accounts** (if applicable).
+- Define **user roles** and **permissions** for staff.
 
-We can help import your existing data:
-- Client records
-- Service history
-- Product catalogs
-- Staff information
+2️⃣ **Pharmacy Details**
 
-### ⚙️ System Customization
+- Enter **business information** (name, license details).
+- Set up **location settings** for multiple branches.
+- Define **operating hours** to reflect store schedules.
+- List **services offered** (e.g., consultations, refills).
 
-Configure RxKonet to match your workflow:
-- Communication preferences
-- Report templates
-- Follow-up schedules
-- Notification settings
+---
 
-:::tip Timeline
-Most pharmacies complete their initial setup within one business day!
+### 📋 **Data Import Options**
+
+If you have **existing records**, we can help you import them into RxKonet:
+
+✅ **Client records** – Transfer patient data seamlessly.  
+✅ **Service history** – Maintain past consultation logs.  
+✅ **Product catalogs** – Upload medication inventory.  
+✅ **Staff information** – Configure team roles and access.
+
+---
+
+### ⚙️ **System Customization**
+
+Tailor RxKonet to fit **your pharmacy's workflow**:
+
+✅ **Set communication preferences** for automated reminders.  
+✅ **Customize report templates** for analytics and tracking.  
+✅ **Define follow-up schedules** for patient engagement.  
+✅ **Adjust notification settings** for alerts and updates.
+
+:::tip ⏳ Setup Timeline  
+Most pharmacies **complete their initial setup within one business day**!  
 :::
 
-## Setup Checklist
+---
 
-- [ ] Provide pharmacy details
-- [ ] Configure user roles
-- [ ] Set operating hours
-- [ ] Import existing data (if needed)
-- [ ] Customize system settings
-- [ ] Verify all configurations 
+## ✅ **Setup Checklist**
+
+Use this checklist to **ensure everything is configured correctly** before going live:
+
+🔲 **Provide pharmacy details** (business name, location).  
+🔲 **Configure user roles** (admin, pharmacist, assistant).  
+🔲 **Set operating hours** for accurate scheduling.  
+🔲 **Import existing data** (if needed).  
+🔲 **Customize system settings** (reports, notifications, follow-ups).  
+🔲 **Verify all configurations** before launching.
+
+---

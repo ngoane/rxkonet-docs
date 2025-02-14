@@ -35,7 +35,7 @@ Once a patient is selected, the following details must be recorded:
 ### **1️⃣ Encounter Details**
 
 - **Date & Time** of the visit.
-- **Reason for Visit** (e.g., headache, follow-up consultation).
+- **Reason for Visit** (e.g., Acute Illness, follow-up consultation).
 
 ### **2️⃣ Chief Complaints & History**
 

@@ -2,53 +2,71 @@
 sidebar_position: 2
 ---
 
-# Staff Training
+# 🎓 Staff Training
 
-## Training Program
+Our **comprehensive training program** ensures your team can confidently use **RxKonet** from day one.
 
-Our comprehensive training program ensures your team can confidently use RxKonet from day one.
+---
 
-### 🎓 Training Modules
+## 🛠️ Training Program
 
-#### 1. Basic Navigation
-- System login
-- Dashboard overview
-- Menu navigation
-- Quick actions
+RxKonet offers **structured training modules** tailored to different staff roles.
 
-#### 2. Role-Based Training
+### 📚 **Training Modules**
 
-##### For Front Desk Staff
-- Client registration
-- Appointment scheduling
-- Basic record management
+#### 1️⃣ **Basic Navigation**
 
-##### For Pharmacists
-- Encounter documentation
-- Treatment plans
-- Follow-up management
+✅ **System Login** – Secure access setup.  
+✅ **Dashboard Overview** – Key insights at a glance.  
+✅ **Menu Navigation** – Finding essential features quickly.  
+✅ **Quick Actions** – Performing daily tasks efficiently.
 
-##### For Managers
-- Report generation
-- Staff management
-- Performance monitoring
+---
 
-### 👩‍💻 Training Methods
+#### 2️⃣ **Role-Based Training**
 
-Choose the training format that works best for your team:
+Each team member receives **training specific to their role**:
 
-#### Live Online Sessions
-- Interactive group training
-- Real-time Q&A
-- Practical exercises
-- Screen sharing
+### 🏥 **For Front Desk Staff**
 
-#### Self-Paced Learning
-- Video tutorials
-- Step-by-step guides
-- Practice exercises
-- Knowledge checks
+✅ **Client Registration** – Adding new patients seamlessly.  
+✅ **Appointment Scheduling** – Managing bookings and time slots.  
+✅ **Basic Record Management** – Updating and maintaining patient details.
 
-:::tip Training Resources
-All training materials remain accessible to your team for future reference!
-::: 
+### 💊 **For Pharmacists**
+
+✅ **Encounter Documentation** – Recording consultations and treatments.  
+✅ **Treatment Plans** – Managing prescriptions and interventions.  
+✅ **Follow-Up Management** – Scheduling reminders and tracking adherence.
+
+### 📊 **For Managers**
+
+✅ **Report Generation** – Analyzing pharmacy performance.  
+✅ **Staff Management** – Assigning roles and permissions.  
+✅ **Performance Monitoring** – Tracking key metrics and staff productivity.
+
+---
+
+## 👩‍💻 Training Methods
+
+Choose the **training format** that works best for your team:
+
+### 🏫 **Live Online Sessions**
+
+✅ **Interactive group training** for real-time learning.  
+✅ **Live Q&A** to address specific questions.  
+✅ **Hands-on exercises** with guided practice.  
+✅ **Screen sharing** for step-by-step demonstrations.
+
+### 📱 **Self-Paced Learning**
+
+✅ **Video tutorials** covering all major features.  
+✅ **Step-by-step guides** for easy reference.  
+✅ **Practice exercises** to reinforce learning.  
+✅ **Knowledge checks** to assess understanding.
+
+:::tip 📝 Training Resources  
+All training materials remain accessible **for future reference** so your team can revisit them anytime!  
+:::
+
+---
