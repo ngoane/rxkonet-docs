@@ -2,119 +2,153 @@
 sidebar_position: 1
 ---
 
-# Common Issues & Solutions
+# 🛠️ Common Issues & Solutions
 
-## 🔑 Login Issues
+This section provides **quick troubleshooting steps** for common issues related to login, encounter records, communication, reports, and user management.
 
-### Unable to Log In
+---
 
-#### Possible Causes
+## 🔑 **Login Issues**
+
+### ❌ Unable to Log In
+
+#### 🔍 Possible Causes:
+
 - Incorrect credentials
-- 2FA code issues
-- Account lockout
+- Two-Factor Authentication (2FA) issues
+- Account lockout due to multiple failed attempts
 
-#### Solutions
+#### ✅ Solutions:
 
 1. **Verify Credentials**
-   - Double-check email address
-   - Ensure caps lock is off
-   - Try password reset if unsure
 
-2. **2FA Problems**
-   - Check spam folder
-   - Verify phone/email access
-   - Request new code
+   - Double-check your **email address** and **password**.
+   - Ensure **Caps Lock** is off.
+   - Use **"Forgot Password"** if unsure.
 
-:::tip Password Reset
-Use the "Forgot Password" link on the login page for quick password recovery.
+2. **Fix 2FA Issues**
+   - Check **spam folder** for the verification code.
+   - Ensure you have **access to your registered phone/email**.
+   - Request a **new 2FA code** if needed.
+
+:::tip 🔐 Password Reset  
+Click **"Forgot Password"** on the login page to reset your password.  
 :::
 
-## 📝 Encounter Records
+---
 
-### Missing Records
+## 📝 **Encounter Records**
 
-#### Possible Causes
-- Filter settings
-- Unsaved data
-- Incorrect client profile
+### ❌ Missing Encounter Records
 
-#### Solutions
+#### 🔍 Possible Causes:
 
-1. **Check Filters**
-   ```
-   Records & Encounters
-   ↓
-   Clear Filters
-   ↓
-   Adjust Date Range
-   ↓
-   Verify Branch Selection
-   ```
+- **Filters hiding records**
+- **Unsaved data** from previous sessions
+- **Incorrect client profile selection**
 
-2. **Verify Save Status**
-   - Review client profile
-   - Check recent encounters
-   - Confirm save confirmation
+#### ✅ Solutions:
 
-## 📱 Communication Issues
+1️⃣ **Check Filter Settings**
 
-### Message Delivery Problems
+```plaintext
+Records & Encounters
+↓
+Clear Filters
+↓
+Adjust Date Range
+↓
+Verify Branch Selection
+```
 
-#### Possible Causes
-- Incorrect scheduling
-- Disabled settings
-- Insufficient credits
+2️⃣ **Verify Save Status**
 
-#### Solutions
+- Check the **client’s profile** for recent encounters.
+- Ensure the **record was saved successfully**.
+- If unsure, attempt to **re-enter and save** the record.
 
-1. **Verify Schedule**
-   - Check date/time
-   - Confirm recipient details
-   - Review message status
+---
 
-2. **Settings Check**
-   - Enable communications
-   - Verify credit balance
-   - Test message system
+## 📱 **Communication Issues**
 
-## 📊 Report Generation
+### ❌ Message Delivery Problems
 
-### Reports Not Loading
+#### 🔍 Possible Causes:
 
-#### Possible Causes
-- Filter restrictions
-- System load
-- Data access issues
+- **Incorrect message scheduling**
+- **Disabled communication settings**
+- **Insufficient SMS/email credits**
 
-#### Solutions
+#### ✅ Solutions:
 
-1. **Adjust Parameters**
-   - Broaden date range
-   - Simplify filters
-   - Clear cache
+1. **Verify Message Schedule**
+
+- Confirm **date/time settings**.
+- Double-check **recipient details**.
+- Review the **message status**.
+
+2. **Check Communication Settings**
+
+- Navigate to **Settings > Communication Settings**.
+- Ensure **email/SMS notifications** are **enabled**.
+- Verify that the account has **sufficient credits** for SMS messages.
+
+---
+
+## 📊 **Report Generation Issues**
+
+### ❌ Reports Not Loading
+
+#### 🔍 Possible Causes:
+
+- **Strict filter restrictions** preventing data display
+- **High system load** affecting report generation
+- **Insufficient data access permissions**
+
+#### ✅ Solutions:
+
+1. **Adjust Report Filters**
+
+- **Broaden the date range** to include more data.
+- **Remove unnecessary filters** for better results.
+- Try **clearing cache and refreshing** the page.
 
 2. **System Check**
-   - Retry generation
-   - Use smaller data sets
-   - Contact support if persistent
 
-## 👥 User Management
+- Retry report generation after a few minutes.
+- If handling large data sets, **generate smaller reports** first.
+- **Contact support** if the issue persists.
 
-### Branch/User Addition Issues
+---
 
-#### Possible Causes
-- Permission limitations
-- Plan restrictions
-- System constraints
+## 👥 **User Management Issues**
 
-#### Solutions
+### ❌ Unable to Add a New User/Branch
 
-1. **Permission Check**
-   - Verify admin rights
-   - Review role settings
-   - Contact administrator
+#### 🔍 Possible Causes:
 
-2. **Plan Verification**
-   - Check current limits
-   - Consider upgrade
-   - Review usage stats 
+- **Insufficient permissions** to create new users
+- **Plan restrictions** limiting the number of users/branches
+- **System constraints** affecting user role assignments
+
+#### ✅ Solutions:
+
+1. **Verify Permissions**
+
+- Ensure you have **admin rights** to manage users.
+- Review **role settings** under **Settings > Staff Management**.
+- If necessary, **contact your system administrator** for access.
+
+2. **Check Plan Limits**
+
+- Review your **current subscription plan** for user/branch limits.
+- If needed, consider an **upgrade** to increase capacity.
+- Check **usage statistics** to see if you've reached a limit.
+
+---
+
+## ❓ **Need More Help?**
+
+If your issue isn’t listed here or persists despite troubleshooting:  
+📧 **Contact Support**: [admin@rxkonet.com](mailto:admin@rxkonet.com)  
+📞 **Call Us**: +233 596571975

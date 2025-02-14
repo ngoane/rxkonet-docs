@@ -2,50 +2,76 @@
 sidebar_position: 3
 ---
 
-# Glossary of Terms
+# 📖 Glossary of Terms
 
-## A-D
+A collection of key terms used in RxKonet to help users understand system functionalities.
 
-### Encounter
-A documented interaction between pharmacy staff and a client, including consultations, prescriptions, or other services.
+---
 
-### Branch
-A physical location or unit of the pharmacy organization within the RxKonet system.
+## 🔠 A - D
 
-## E-H
+### 🏥 Encounter
 
-### Groups
-Categories used to organize clients based on specific criteria or characteristics.
+A documented interaction between pharmacy staff and a client, including **consultations, prescriptions, or other services**.
 
-### Follow-up
-A scheduled reminder or future interaction with a client.
+### 📍 Branch
 
-## I-L
+A **physical location or unit** of the pharmacy organization within the RxKonet system.
 
-### Inventory
-Stock management system tracking medications and supplies.
+---
 
-## M-P
+## 🔠 E - H
 
-### Permissions
-Access rights granted to staff members determining their system capabilities.
+### 📂 Groups
 
-### Profile
-Digital record containing user or client information.
+Categories used to **organize clients** based on specific criteria or characteristics.
 
-## Q-T
+### 📅 Follow-up
 
-### Reports
-Generated documents showing pharmacy performance metrics and analytics.
+A scheduled **reminder or future interaction** with a client.
 
-### Two-Factor Authentication (2FA)
-Security feature requiring two forms of verification for account access.
+---
 
-## U-Z
+## 🔠 I - L
 
-### User Role
-Defined set of permissions and access levels assigned to staff members.
+### 📦 Inventory
 
-:::note
-Visit help.rxkonet.com/glossary for a complete, updated list of terms.
-::: 
+Stock management system for **tracking medications and supplies**.
+
+---
+
+## 🔠 M - P
+
+### 🔐 Permissions
+
+Access rights granted to staff members, **determining their system capabilities**.
+
+### 👤 Profile
+
+A **digital record** containing user or client information.
+
+---
+
+## 🔠 Q - T
+
+### 📊 Reports
+
+Generated **documents showing pharmacy performance metrics and analytics**.
+
+### 🔑 Two-Factor Authentication (2FA)
+
+A **security feature requiring two forms of verification** for account access.
+
+---
+
+## 🔠 U - Z
+
+### 👥 User Role
+
+A **defined set of permissions and access levels** assigned to staff members.
+
+---
+
+:::info ℹ️  
+Visit **[help.rxkonet.com/glossary](https://help.rxkonet.com/glossary)** for a **complete, updated list** of terms.  
+:::

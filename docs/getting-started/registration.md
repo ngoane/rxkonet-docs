@@ -49,7 +49,7 @@ Once you submit your registration:
 
 If you need assistance at any point during the registration process, our support team is ready to help!
 
-📧 **Email:** [register@rxkonet.com](mailto:register@rxkonet.com)  
-📞 **Phone:** **1-800-RXKONET**
+📧 **Contact Support**: [admin@rxkonet.com](mailto:admin@rxkonet.com)  
+📞 **Call Us**: +233 596571975
 
 ---
