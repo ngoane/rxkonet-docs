@@ -6,6 +6,10 @@ sidebar_position: 4
 
 RxKonet allows you to **quickly add, view, and manage** a patient's medications without creating a full encounter. This feature is useful for **prescription updates and medication history tracking**.
 
+<iframe src="https://www.loom.com/embed/14a4fdf89ccc4d7ebf179a2ee8985129?sid=8bf814a0-d575-499f-b3b9-531f52c1372f"
+width="100%" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen 
+></iframe>
+
 ---
 
 ## ➕ Adding Medications

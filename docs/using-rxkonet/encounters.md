@@ -14,6 +14,9 @@ Learn how to **create, document, and manage patient encounters** in RxKonet to e
 
 An **encounter** records a patient’s **visit details**, including symptoms, diagnosis, treatment, and follow-up plans. This documentation ensures **comprehensive patient management** and continuity of care.
 
+<iframe src="https://www.loom.com/embed/9558a4fa98b6497abd90939384353550?sid=c73f0f1f-bd53-4660-aa07-68eb3ca911d7"
+width="100%" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen 
+></iframe>
 ---
 
 ## 🛠️ Steps to Create a New Encounter
@@ -101,6 +104,10 @@ Schedule follow-ups to ensure **continuity of care**:
    - Filter by **date**, **patient name**, or **visit type**.
 
 ---
+
+<iframe src="https://www.loom.com/embed/ad2fc2dc7794429f95e13c833b54dbe1?sid=43a1e731-057e-41d3-9c25-65f1e662bddc"
+width="100%" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen 
+></iframe>
 
 ### ✏️ Editing Encounters
 
