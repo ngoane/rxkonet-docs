@@ -1,66 +1,77 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Platform Updates
+# 🚀 Platform Updates
 
-## 🆕 Recent Updates
+Stay informed about the latest **RxKonet** changes, upcoming features, and enhancements.
 
-### Enhanced Reporting
-- New analytical filters
-- Custom report templates
-- Improved data visualization
+---
 
-### Follow-Up System
-- Flexible scheduling options
-- Enhanced notifications
-- Calendar integration
+## 🆕 **Recent Updates**
 
-### Bug Fixes
-- Communication module improvements
-- Performance optimizations
-- Interface refinements
+### 📊 **Enhanced Reporting**
 
-## 🚀 Coming Soon
+- 🛠️ **New Analytical Filters** for better data segmentation
+- 📑 **Custom Report Templates** to tailor insights
+- 📈 **Improved Data Visualization** with interactive charts
 
-### Advanced Analytics Dashboard
-- Detailed insights
-- Custom metrics
-- Interactive visualizations
-- Expected: Q2 2024
+### 📅 **Follow-Up System Enhancements**
 
-### Inventory Management
-- Stock tracking
-- Automated ordering
-- Supplier integration
-- Expected: Q3 2024
+- 📆 **Flexible Scheduling Options** for reminders
+- 🔔 **Enhanced Notifications** with SMS and email integration
+- 📅 **Calendar Integration** for streamlined follow-ups
 
-## 📋 Release Notes
+### 🐛 **Bug Fixes & Performance Improvements**
 
-### Accessing Updates
+- 💬 **Communication Module Enhancements** for smoother client interactions
+- 🚀 **Performance Optimizations** to boost system speed
+- 🎨 **UI/UX Refinements** for better navigation
 
-1. **Dashboard Updates**
-   - Visit "What's New" section
-   - Review latest changes
-   - Check implementation dates
+---
 
-2. **Email Notifications**
-   - Regular update summaries
-   - Feature announcements
-   - Maintenance alerts
+## 🔮 **Future Feature Plans**
 
-### Update Categories
+### 📱 **myRx** _(Target: Patients & General Public)_
 
-- **Major Releases**
-  - Significant new features
-  - Platform improvements
-  - Security updates
+- 📌 **A mobile application for patients** that integrates seamlessly with RxKonet Platform
+- 💊 **Easy access to prescriptions, bookings, and virtual care services**
+- 🏥 **Improves patient experience and health outcomes**
 
-- **Minor Updates**
-  - Bug fixes
-  - Performance optimization
-  - UI/UX enhancements
+### 🔍 **RxFind** _(Target: Medication Search & Accessibility)_
 
-:::note Stay Informed
-Enable notifications in your profile settings to receive update alerts.
-::: 
+- 🏥 **Search engine for locating medications** within pharmacies
+- 🔗 **Facilitates e-referrals, e-ordering, and online booking**
+- ⚖️ **Ensures equitable access to medications and essential healthcare products**
+
+---
+
+## 📋 **Release Notes & Update Tracking**
+
+### 🔄 **Accessing Updates**
+
+📌 **Dashboard Updates**
+
+- Navigate to the **“What’s New”** section
+- Review the latest changes and improvements
+- Check the **implementation dates** for each update
+
+### 🗂️ **Update Categories**
+
+🔹 **Major Releases**
+
+- 🚀 **New Features & Enhancements**
+- 🔐 **Security Updates**
+- ⚙️ **Platform-Wide Improvements**
+
+🔹 **Minor Updates**
+
+- 🐞 **Bug Fixes**
+- 📈 **Performance Optimization**
+- 🎨 **UI/UX Adjustments**
+
+---
+
+:::tip 🔔 Stay Informed  
+We are continuously enhancing **RxKonet** to meet evolving market needs. Visit the **[What's New](#)** page to explore our latest updates, features, and improvements. Enable notifications in your **Profile Settings** to receive real-time updates.  
+:::
