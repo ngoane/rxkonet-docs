@@ -2,64 +2,91 @@
 sidebar_position: 2
 ---
 
-# Getting Support
+# 🆘 Getting Support
 
 ## 📞 Support Channels
 
-### Email Support
-- Address: support@rxkonet.com
-- Include:
-  - Screenshots
+### 📧 Email Support
+
+- **Contact Support**: [admin@rxkonet.com](mailto:admin@rxkonet.com)
+- **Include in Email**:
+  - Screenshots of the issue
   - Error messages
-  - Steps to reproduce
+  - Steps to reproduce the problem
 
-### Phone Support
-- Number: +123-456-7890
-- Hours: 9 AM - 6 PM (Mon-Fri)
-- Priority support for urgent issues
+### 📞 Phone Support
 
-### Live Chat
-1. Access via dashboard
-2. Click Help button (bottom-right)
-3. Start conversation
+- **Call Us**: +233 596571975
+- **Hours**: 9 AM - 6 PM (Monday - Friday)
+- **Priority Support** available for urgent issues
 
-### Help Center
-- URL: help.rxkonet.com
-- Resources:
-  - Video tutorials
-  - User guides
-  - FAQs
+---
 
 ## ⏱️ Response Times
 
-### Priority Levels
+### 🔺 Critical Issues
 
-1. **Critical Issues**
-   - Response: Within 4 hours
-   - Examples:
-     - System down
-     - Data access problems
-     - Security concerns
+- **Response Time**: Within 4 hours
+- **Examples**:
+  - System outage
+  - Data access problems
+  - Security concerns
 
-2. **General Queries**
-   - Response: Within 24 hours
-   - Examples:
-     - Feature questions
-     - Configuration help
-     - General guidance
+### ℹ️ General Queries
+
+- **Response Time**: Within 24 hours
+- **Examples**:
+  - Feature inquiries
+  - Configuration assistance
+  - General guidance
+
+---
 
 ## 📅 Support Hours
 
-### Weekday Support
-- Monday to Friday
-- 9 AM to 6 PM
-- Full service available
+### 🗓️ Weekday Support
 
-### Weekend Support
-- Limited availability
-- Urgent issues only
+- **Monday to Friday**: 9 AM - 6 PM
+- **Full Service Available**
+
+### 🏖️ Weekend Support
+
+- **Limited availability**
+- **Urgent issues only**
 - Response time may vary
 
-:::tip Best Practice
-For fastest resolution, always include your pharmacy name and specific error messages when contacting support.
-::: 
+:::tip 🚀 Best Practice
+For faster resolution, always **include your pharmacy name** and specific **error messages** when contacting support.
+:::
+
+---
+
+## 🎫 Submit a Support Ticket
+
+For better tracking and faster resolution, submit a ticket through our official support form:
+
+📌 **[Submit a Ticket Here](https://forms.clickup.com/9012178629/f/8cjnvp5-1632/UZ9D6IU4S83YTGKKH3)**
+
+You will be required to provide:
+
+- A brief description of the issue
+- Priority level
+- Screenshots (if applicable)
+- Pharmacy/Branch name
+
+---
+
+:::tip Best Practice  
+For **faster resolution**, always include your **pharmacy name**, **specific error messages**, and **steps to reproduce** when contacting support.  
+:::
+
+### 📩 **RxKonet Ticketing Service**
+
+You can aslo submit a request directly in this form below:
+
+<iframe
+  src="https://forms.clickup.com/9012178629/f/8cjnvp5-1632/UZ9D6IU4S83YTGKKH3"
+  width="100%"
+  height="600"
+  style={{ border: "none" }}
+/>

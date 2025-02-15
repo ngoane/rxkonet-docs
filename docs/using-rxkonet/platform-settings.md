@@ -2,73 +2,101 @@
 sidebar_position: 7
 ---
 
-# Platform Settings
+# ⚙️ Advanced RxKonet Setting
 
-## ⚙️ Branch Management
+This section covers **high-level administrative settings** that affect **branches, system security, communications, and user preferences**.  
+These settings **may not be visible to all users** but can be adjusted by **authorized personnel** or **upon request**.
 
-### Accessing Branch Settings
+---
 
-1. Navigate to Settings > Branch Management
-2. Select branch to modify
+## 🏢 **Branch Management**
 
-### Editable Branch Information
+### **Accessing Branch Settings**
 
-- **Basic Details**
-  - Branch name
-  - Address
-  - Contact information
-  - Operating hours
+To manage branch details:
 
-- **Operational Settings**
-  - Service offerings
-  - Staff assignments
-  - Equipment inventory
+1. Navigate to **Settings > Branch Management**.
+2. Select the **branch** you want to modify.
 
-### Saving Changes
+### **Editable Branch Information**
 
-1. Make necessary updates
-2. Review modifications
-3. Click Save to apply
+You can update:
 
-## 🔧 System Configuration
+- **Basic Details:** Branch name, address, contact info, and operating hours.
+- **Operational Settings:** Service offerings, staff assignments, and available equipment.
 
-### General Settings
+### **Saving Changes**
 
-- Language preferences
-- Time zone
-- Date format
-- Currency settings
+- Make necessary **updates**.
+- Review **modifications** before applying.
+- Click **"Save"** to confirm changes.
 
-### Security Settings
+---
 
-- Password policies
-- Session timeouts
-- Access restrictions
-- Audit logging
+## 🔧 **System Configuration**
 
-### Communication Settings
+### **General Settings**
 
-- Email configuration
-- SMS settings
-- Notification preferences
-- Alert thresholds
+Modify platform-wide preferences:
 
-## 👥 User Preferences
+- 🌎 **Language Preferences** – Select default system language.
+- ⏳ **Time Zone & Date Format** – Adjust regional settings.
+- 💰 **Currency Settings** – Set the preferred currency for transactions.
 
-### Customization Options
+### **Security Settings**
 
-- Dashboard layout
-- Default views
-- Notification preferences
-- Report templates
+Enhance platform security:
 
-### Personal Settings
+- 🔑 **Password Policies** – Enforce strong password rules.
+- ⏱️ **Session Timeouts** – Auto-log out inactive users.
+- 🔐 **Access Restrictions** – Limit access to sensitive areas.
+- 📜 **Audit Logging** – Track user actions for security monitoring.
 
-- Language choice
-- Theme selection
-- Email preferences
-- Alert settings
+---
 
-:::tip Organization
-Regular review of platform settings ensures optimal system performance.
-::: 
+## 📩 **Communication Settings**
+
+### **Messaging & Notifications**
+
+Configure how the system sends alerts and messages:
+
+- ✉️ **Email Configuration** – Set up email servers for system alerts.
+- 📲 **SMS Settings** – Enable text message notifications for clients.
+- 🔔 **Notification Preferences** – Customize alerts for appointments, refills, and system updates.
+- ⚠️ **Alert Thresholds** – Define limits for warnings and automated alerts.
+
+---
+
+## 👥 **User Preferences**
+
+### **Customization Options**
+
+Users can personalize their experience by adjusting:
+
+- 🎛 **Dashboard Layout** – Choose preferred widgets and sections.
+- 📑 **Default Views** – Set default pages for quick access.
+- 🔔 **Notification Preferences** – Customize which alerts are visible.
+- 📊 **Report Templates** – Select preferred formats for reports.
+
+### **Personal Settings**
+
+Users can modify their:
+
+- 🌐 **Language Choice** – Set preferred interface language.
+- 🎨 **Theme Selection** – Toggle between dark/light modes.
+- 📧 **Email Preferences** – Manage notification subscriptions.
+- ⚠️ **Alert Settings** – Adjust urgency levels for different alerts.
+
+---
+
+## 🏢 **Organizational Recommendations**
+
+Regularly reviewing **platform settings** ensures:
+
+✅ **Optimal system performance**  
+✅ **Secure data management**  
+✅ **Efficient communication with users**
+
+:::tip Need Assistance?  
+Most of these settings require **admin access**. If you need help adjusting any configurations, contact your system administrator or the RxKonet support team.
+:::
