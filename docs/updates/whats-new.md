@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🚀 RxKonet Release Notes
+# RxKonet Release Notes
 
 Stay informed about the latest **RxKonet** updates, improvements, and upcoming features.
 
@@ -11,7 +11,7 @@ Stay informed about the latest **RxKonet** updates, improvements, and upcoming f
 ## 🆕 **Recent Updates - v1.1.2 (March 2025)**
 
 ✅ **Client Groups Management** – Organize clients into groups for better segmentation and service customization.  
-✅ **Client Requests Module** – Clients can now send service requests, improving communication efficiency.  
+✅ **Client Requests Module** – Clients can now make service requests for medications, improving communication efficiency.  
 ✅ **Bug Fixes & Performance Enhancements** – General optimizations and minor UI refinements.
 
 ---
