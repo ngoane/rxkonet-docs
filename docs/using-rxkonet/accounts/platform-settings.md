@@ -4,14 +4,14 @@ sidebar_position: 2
 
 # 🛠️ Platform Settings
 
-## ⚙️ Branch Management
+This section covers **high-level administrative settings** that affect **branches, system security, communications, and user preferences**.  
+These settings **may not be visible to all users** but can be adjusted by **authorized personnel** or **upon request**.
 
-### Accessing Branch Settings
+---
 
-1. Navigate to Settings > Branch Management
-2. Select branch to modify
+## 🏢 **Branch Management**
 
-### Editable Branch Information
+### **Accessing Branch Settings**
 
 - **Basic Details**
 
@@ -20,55 +20,44 @@ sidebar_position: 2
   - Contact information
   - Operating hours
 
-- **Operational Settings**
-  - Service offerings
-  - Staff assignments
-  - Equipment inventory
+1. Navigate to **Settings > Branch Management**.
+2. Select the **branch** you want to modify.
 
-### Saving Changes
+### **Editable Branch Information**
 
-1. Make necessary updates
-2. Review modifications
-3. Click Save to apply
+You can update:
 
-## 🔧 System Configuration
+- **Basic Details:** Branch name, address, contact info, and operating hours.
+- **Operational Settings:** Service offerings, staff assignments, and available equipment.
 
-### General Settings
+### **Saving Changes**
 
-- Language preferences
-- Time zone
-- Date format
-- Currency settings
+- Make necessary **updates**.
+- Review **modifications** before applying.
+- Click **"Save"** to confirm changes.
 
-### Security Settings
+---
 
-- Password policies
-- Session timeouts
-- Access restrictions
-- Audit logging
+## 🔧 **System Configuration**
 
-### Communication Settings
+### **General Settings**
 
-- Email configuration
-- SMS settings
-- Notification preferences
-- Alert thresholds
+Modify platform-wide preferences:
 
-## 👥 User Preferences
+- 🌎 **Language Preferences** – Select default system language.
+- ⏳ **Time Zone & Date Format** – Adjust regional settings.
+- 💰 **Currency Settings** – Set the preferred currency for transactions.
 
-### Customization Options
+### **Security Settings**
 
-- Dashboard layout
-- Default views
-- Notification preferences
-- Report templates
+Enhance platform security:
 
-### Personal Settings
+- 🔑 **Password Policies** – Enforce strong password rules.
+- ⏱️ **Session Timeouts** – Auto-log out inactive users.
+- 🔐 **Access Restrictions** – Limit access to sensitive areas.
+- 📜 **Audit Logging** – Track user actions for security monitoring.
 
-- Language choice
-- Theme selection
-- Email preferences
-- Alert settings
+---
 
 :::tip Organization
 Regular review of platform settings ensures optimal system performance.

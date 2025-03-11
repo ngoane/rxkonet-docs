@@ -24,9 +24,6 @@ const config: Config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -38,25 +35,8 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl: 'https://github.com/ngoane/rxkonet-docs/tree/main/',
         },
-        // blog: {
-        //   showReadingTime: true,
-        //   feedOptions: {
-        //     type: ['rss', 'atom'],
-        //     xslt: true,
-        //   },
-        //   // Please change this to your repo.
-        //   // Remove this to remove the "edit this page" links.
-        //   editUrl:
-        //     'https://github.com/ngoane/rxkonet-docs',
-        //   // Useful options to enforce blogging best practices
-        //   onInlineTags: 'warn',
-        //   onInlineAuthors: 'warn',
-        //   onUntruncatedBlogPosts: 'warn',
-        // },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -65,14 +45,9 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'RxKonet User Guide',
-      // logo: {
-      //   alt: 'RxKonet Logo',
-      //   src: 'img/logo.svg',
-      // },
       items: [
         {
           type: 'docSidebar',
@@ -80,7 +55,6 @@ const config: Config = {
           position: 'left',
           label: 'Documentation',
         },
-        // {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/ngoane/rxkonet-docs',
           label: 'GitHub',
@@ -88,56 +62,23 @@ const config: Config = {
         },
       ],
     },
-    // footer: {
-    //   style: 'dark',
-    //   links: [
-    //     {
-    //       title: 'Docs',
-    //       items: [
-    //         {
-    //           label: 'Tutorial',
-    //           to: '/docs/intro',
-    //         },
-    //       ],
-    //     },
-    //     {
-    //       title: 'Community',
-    //       items: [
-    //         // {
-    //         //   label: 'Stack Overflow',
-    //         //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-    //         // },
-    //         // {
-    //         //   label: 'Discord',
-    //         //   href: 'https://discordapp.com/invite/docusaurus',
-    //         // },
-    //         {
-    //           label: 'X',
-    //           href: 'https://x.com/ngoane_htc',
-    //         },
-    //       ],
-    //     },
-    //     {
-    //       title: 'More',
-    //       items: [
-    //         {
-    //           label: 'Blog',
-    //           to: 'https://blog.rxkonet.com',
-    //         },
-    //         {
-    //           label: 'GitHub',
-    //           href: 'https://github.com/ngoane/rxkonet-docs',
-    //         },
-    //       ],
-    //     },
-    //   ],
-    //   copyright: `Copyright © ${new Date().getFullYear()} RxKonet.`,
-    // },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+
+  // 🔹 Add Local Search Plugin Correctly Inside the Main Config
+  plugins: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        indexDocs: true,
+        indexBlog: false,
+        hashed: true, // Security feature
+      },
+    ],
+  ],
 };
 
 export default config;

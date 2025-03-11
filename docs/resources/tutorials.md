@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Tutorials & Videos
+# 🎥 Tutorials & Videos
 
 ## 🎓 Getting Started
 
-### Platform Overview
+### 🏥 Platform Overview
 
 <div class="video-container">
   <iframe 
@@ -18,54 +18,68 @@ sidebar_position: 1
   </iframe>
 </div>
 
-- **Introduction to RxKonet**
-  - Platform overview
-  - Key features
-  - Basic navigation
-  - Duration: 5 minutes
+📌 **Introduction to RxKonet** _(5 min)_
 
-### Basic Operations
+- 🖥️ **Platform Overview**
+- 🔑 **Key Features**
+- 🗺️ **Basic Navigation**
 
-- **Account Management** (3 min)
-  - Login process
-  - Profile updates
-  - Security settings
+---
+
+### ⚙️ Basic Operations
+
+📂 **Account Management** _(3 min)_
+
+- 🔑 **Login Process**
+- ✏️ **Profile Updates**
+- 🔒 **Security Settings**
+
+---
 
 ## 💡 Feature Tutorials
 
-### Staff Management (7 min)
-- User addition
-- Role assignment
-- Permission settings
-- Branch management
+📋 **Staff Management** _(7 min)_
 
-### Client Management (6 min)
-- Profile creation
-- Group organization
-- Data management
-- Client categorization
+- 👥 **User Addition**
+- 🏷️ **Role Assignment**
+- 🔐 **Permission Settings**
+- 🏢 **Branch Management**
 
-### Reporting System (8 min)
-- Report generation
-- Customization options
-- Data analysis
-- Export features
+🗂️ **Client Management** _(6 min)_
+
+- 🏥 **Profile Creation**
+- 📁 **Group Organization**
+- 📊 **Data Management**
+- 🏷️ **Client Categorization**
+
+📊 **Reporting System** _(8 min)_
+
+- 📈 **Report Generation**
+- 🎛️ **Customization Options**
+- 📊 **Data Analysis**
+- 📤 **Export Features**
+
+---
 
 ## 📚 Additional Learning
 
-### Access & Resources
+### 📖 Access & Resources
 
-- **Online Help Center**
-  - URL: help.rxkonet.com/tutorials
-  - Available 24/7
-  - Searchable content
+🔹 **Online Help Center**
 
-### Tutorial Library
-- Step-by-step guides
-- Video demonstrations
-- Interactive walkthroughs
-- Practice exercises
+- 🌐 URL: [help.rxkonet.com/tutorials](https://help.rxkonet.com/tutorials)
+- 🕒 Available 24/7
+- 🔍 Searchable content
 
-:::tip Learning Path
-Follow our recommended learning path for the most effective training experience.
-::: 
+🔹 **Tutorial Library**
+
+- 📘 Step-by-step guides
+- 🎥 Video demonstrations
+- 🏆 Interactive walkthroughs
+- 📝 Practice exercises
+
+---
+
+:::tip 🚀 Learning Path  
+Follow our recommended **learning path** for a structured and effective training experience.  
+:::
