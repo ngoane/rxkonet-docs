@@ -1,8 +1,8 @@
 ---
-sidebar_position: 7
+sidebar_position: 2
 ---
 
-# Platform Settings
+# 🛠️ Platform Settings
 
 ## ⚙️ Branch Management
 
@@ -14,6 +14,7 @@ sidebar_position: 7
 ### Editable Branch Information
 
 - **Basic Details**
+
   - Branch name
   - Address
   - Contact information
@@ -71,4 +72,4 @@ sidebar_position: 7
 
 :::tip Organization
 Regular review of platform settings ensures optimal system performance.
-::: 
+:::
