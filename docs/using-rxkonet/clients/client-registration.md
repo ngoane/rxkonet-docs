@@ -16,23 +16,12 @@ Registering clients in RxKonet allows you to **track visits, manage medical reco
 
 ---
 
-### 🎥 Step-by-Step Registration
-
-Watch this short video tutorial on **how to register a new client** in RxKonet:
-
-<iframe src="https://www.loom.com/embed/066b0daf77b14981b4ec83eee80a5f5f?sid=f0a140d3-c841-45a8-957e-b6ee8c9afb27" 
-width="100%"
-height="400"
-frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
-</iframe>
-
----
-
 ## 🛠️ **Steps to Register a New Client**
 
 ### 1️⃣ **Access Registration**
 
-- Navigate to **Clients > Register New Client**
+- Navigate to **Client Registration** from the menu.
+- Choose **Individual** registration or **Bulk Import** (for multiple clients).
 
 ### 2️⃣ **Enter Client Information**
 
@@ -51,6 +40,9 @@ These fields are **optional** but can be added to improve record-keeping:
 - **Last Name**
 - **Email Address**
 - **Gender**
+- **Client Group** (if applicable)
+  - You can add clients to **one or multiple groups** if groups have been previously created in the system.
+  - Click on the **Client Group dropdown** and select a group or multiple groups.
 
 ### 3️⃣ **Save Profile**
 
@@ -61,13 +53,65 @@ These fields are **optional** but can be added to improve record-keeping:
 
 ### 📸 Example: Registration Page
 
-![Register New Client Page](/img/screenshots/register-new-client-page.png)
+<!-- ![Register Individual Client Page](/img/screenshots/register-individual-client.png) -->
 
 ---
 
 ## 📩 What Happens After Registration?
 
-✅ The client will receive a **welcome message** on their phone number.  
-✅ This message will contain their **membership ID**, which can be used for future visits.
+✅ The client will be added to the **Registered Clients** list.
+✅ If configured, the client may receive a **welcome message** on their phone number.
+✅ Their profile will now be accessible for **future visits and records.**
+
+---
+
+## 📂 Bulk Import of Clients
+
+### 📌 Why Use Bulk Import?
+
+If you have a list of clients that need to be added quickly, the **Bulk Import** feature allows you to upload multiple clients at once using a CSV or Excel file.
+
+---
+
+## 🛠️ **Steps to Bulk Import Clients**
+
+### 1️⃣ **Access Bulk Import**
+
+- Navigate to **Client Registration** from the menu.
+- Select the **Bulk Import** tab.
+
+### 2️⃣ **Download the Template**
+
+- Click **"Download Template"** and choose either **CSV Format** or **Excel Format**.
+- Open the file and fill in the required details:
+  - **First Name** (Required)
+  - **Last Name** (Optional)
+  - **Email** (Optional)
+  - **Phone Number** (Required)
+  - **Gender** (Optional)
+
+### 3️⃣ **Upload the File**
+
+- Click **"Choose File"** and select your completed CSV/Excel file.
+- Click **"Import Clients"** to upload the data.
+
+### 4️⃣ **Verify the Import**
+
+- Ensure all records are uploaded correctly by checking the **Registered Clients** list.
+- If errors occur, review the file format and correct any missing or invalid data.
+
+---
+
+### 📸 Example: Bulk Import Page
+
+<!-- ![Bulk Import Clients Page](/img/screenshots/bulk-import-clients.png) -->
+
+---
+
+## 📩 What Happens After Importing?
+
+✅ All imported clients will be added to the **Registered Clients** list.
+✅ If configured, each client may receive a **welcome message** confirming their registration.
+✅ You can now manage and update these client records as needed.
 
 ---
