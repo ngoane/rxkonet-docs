@@ -4,63 +4,74 @@ sidebar_position: 4
 
 # 📁 Managing Client Records
 
-Learn how to **search, filter, and manage client records** in RxKonet. This section covers how to access **registered clients, perform quick actions, and manage client history** efficiently.
+**Learn how to search, filter, and manage client records in RxKonet efficiently.** This section covers how to access registered clients, customize the view, perform quick actions, and manage client history.
 
 ---
 
-## 👥 Viewing Client List
+## 👥 Viewing Registered Clients
 
 ### 📌 Why Manage Client Records?
 
-Efficient client record management ensures **accurate tracking of visits, treatments, and communication**, helping pharmacists provide **better patient care**.
+Efficient client record management allows pharmacists to:
 
-### 🛠️ Steps to Access Client Records
+✅ **Quickly retrieve client details** for consultations.  
+✅ **Monitor visit history, medications, and diagnostics**.  
+✅ **Customize the client list to display only relevant information**.
 
-1️⃣ **Navigate to the Client List**
+---
 
-- On the **main sidebar**, click on **"Registered Clients."**
+## 🛠️ Steps to Access & Search Clients
 
-2️⃣ **Search & Filter Clients**
+### 1️⃣ **Navigate to Registered Clients**
 
-- Find clients quickly using the **search and filter** options:
-  - **By Name**
-  - **By Contact Details**
-  - **By Membership ID**
+- Go to **"Registered Clients"** from the sidebar.
 
-![Registered Clients Page](/img/screenshots/registered-clients.png)
+### 2️⃣ **Use Advanced Search Options**
+
+- Search clients using multiple identifiers:
+  - 🔍 **By Name**
+  - 📞 **By Contact Details**
+  - 🏷️ **By Membership ID**
+
+<!-- ![Registered Clients Search](/img/screenshots/registered-clients-search.png) -->
+
+### 3️⃣ **Customize Columns in the Client List**
+
+- Users can **remove or add columns** based on preference:
+  - **Patient ID**
+  - **Name**
+  - **Contact Details**
+  - **Membership ID**
+  - **Visit Date**
+  - **Actions**
+- Click the **Column Selector** to modify the view.
+
+<!-- ![Column Customization](/img/screenshots/registered-clients-columns.png) -->
 
 ---
 
 ## ⚡ Quick Actions
 
-From the client list, you can perform the following actions:
+Clients' records provide multiple actions for quick access to key features:
 
-✅ **View Profile** – See full client details, including medical history.  
-✅ **New Visit** – Create an **encounter** for the client.  
-✅ **History** – View past **visits, diagnoses, and prescriptions**.  
-✅ **Additional Options**:
+✅ **Profile** – View full client details and history.  
+✅ **New Visit** – Start a new consultation or visit.  
+✅ **History** – Access previous visits, diagnoses, and medications.  
+✅ **More Actions** (via the menu `...` button):
 
-- 🏥 **Medications** – Manage prescriptions and dosages.
+- 🏥 **Manage Medications** – Prescribe or modify prescriptions.
 - 🩺 **Diagnostic Tests** – View or request lab results.
-- ✉️ **Messages** – Send important updates to clients.
-- ⏰ **Reminders** – Set follow-up alerts for future visits.
+- ✉️ **Messages** – Send updates and notifications.
+- ⏰ **Reminders** – Schedule follow-up alerts.
+
+<!-- ![More Actions Menu](/img/screenshots/registered-clients-actions.png) -->
 
 ---
 
-## 🎥 Short Recording on Managing Clients
+## 🎥 Short Video Guide
 
-Watch this short video tutorial on how to **effectively manage client records** in RxKonet:
+Watch this video tutorial on **how to manage client records in RxKonet**:
 
-<iframe src="https://www.loom.com/embed/9d416bc95f6b4458a8d09b3d9365de04?sid=23200e2d-608f-43d0-abea-398a50b660df"
-width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
----
-
-### 🔹 **Key Enhancements:**
-
-✅ **Added descriptions** explaining the importance of managing client records.  
-✅ **Clarified search and filter functionality** for better usability.  
-✅ **Expanded quick actions** with icons and descriptions for each feature.  
-✅ **Kept a logical structure** to help users **quickly find what they need**.
+<!-- <iframe src="https://www.loom.com/embed/9d416bc95f6b4458a8d09b3d9365de04?sid=23200e2d-608f-43d0-abea-398a50b660df" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 
 ---
