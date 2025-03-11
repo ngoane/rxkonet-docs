@@ -18,7 +18,7 @@ Keeping client records **accurate and updated** is essential for **quality healt
 
 Below is an image of the **client profile page**. If you want to edit a client’s profile, click on the **"Edit Profile"** button.
 
-![Client Profile](/img/screenshots/view-client-profile.png)
+<!-- ![Client Profile](/img/screenshots/view-client-profile.png) -->
 
 ---
 
@@ -31,7 +31,7 @@ Modify basic client details:
 - **Date of Birth**
 - **Languages**
 
-![Edit Personal Information](/img/screenshots/edit-personal-information.png)
+<!-- ![Edit Personal Information](/img/screenshots/edit-personal-information.png) -->
 
 ---
 
@@ -39,11 +39,13 @@ Modify basic client details:
 
 Update the client’s **medical history** to ensure accurate treatment records:
 
-- **Medical history**
-- **Allergies**
-- **Conditions**
+- **Clinical Information** to add clinical details like Weight, Height, BMI, blood group, sickle cell status.
+- **History of Chronic Illness** by clicking on the add sign on the far right
+- **Allergies** by clicking on the add sign on the far right
+- **Lifestyle details** like smoking status, alcohol use, excercise frequency and diet
+- **Social Determinants** like education level, occupation etc
 
-![Edit Medical Information](/img/screenshots/edit-medical-information.png)
+<!-- ![Edit Medical Information](/img/screenshots/edit-medical-information.png) -->
 
 ---
 
@@ -55,7 +57,7 @@ Keep client contact details up to date:
 - **Email address**
 - **Residential address**
 
-![Edit Contact Information](/img/screenshots/edit-contact-information.png)
+<!-- ![Edit Contact Information](/img/screenshots/edit-contact-information.png) -->
 
 ---
 
@@ -67,7 +69,7 @@ Add or update emergency contact information to ensure timely communication durin
 - **Relationship to Client**
 - **Phone Number**
 
-![Edit Emergency Contact Information](/img/screenshots/add-emergency-contact-information.png)
+<!-- ![Edit Emergency Contact Information](/img/screenshots/add-emergency-contact-information.png) -->
 
 ---
 
@@ -79,7 +81,7 @@ Ensure that the client’s **insurance details** are correct and up to date:
 - **Policy details**
 - **Coverage information**
 
-![Edit Insurance Information](/img/screenshots/add-insurance-information.png)
+<!-- ![Edit Insurance Information](/img/screenshots/add-insurance-information.png) -->
 
 ---
 
@@ -99,7 +101,6 @@ Regularly verify client information during visits to maintain **up-to-date recor
 
 Watch this short video tutorial on how to **edit client profiles efficiently** in RxKonet:
 
-<iframe src="https://www.loom.com/embed/9b591d67926e4d298edc868947eb5fd9?sid=b6efa7b9-edfe-4373-b0dd-420bff09e446"
-width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.loom.com/embed/9b591d67926e4d298edc868947eb5fd9?sid=b6efa7b9-edfe-4373-b0dd-420bff09e446" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---
