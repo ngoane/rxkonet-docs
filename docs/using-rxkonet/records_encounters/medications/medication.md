@@ -83,7 +83,7 @@ RxKonet allows you to **resume medication reminders** for clients who need notif
 To **export a client's medication history**:
 
 1️⃣ Open **View Medications** for the client.  
-2️⃣ Click **"Export Record"** to download the list as a report.
+2️⃣ Click **"Export** to download the list as a report as either a pdf or csv file.
 
 📌 **This is useful for sharing medication history with healthcare providers.**
 
