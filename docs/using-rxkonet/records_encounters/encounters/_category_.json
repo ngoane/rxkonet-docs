@@ -1,6 +1,6 @@
 {
     "label": "Encounters",
-    "position": 1,
+    "position": 0,
     "link": {
       "type": "generated-index",
       "description": "Learn how to record, view, edit and manage encounters with clients in RxKonet."
