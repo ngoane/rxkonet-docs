@@ -1,0 +1,8 @@
+{
+    "label": "Follow-up",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "This section covers how to schedule follow-ups, manage reminders, and update follow-up reminders."
+    }
+  } 
